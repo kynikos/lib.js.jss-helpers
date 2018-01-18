@@ -1,20 +1,7 @@
-# JSS Helpers
-# Copyright (C) 2017 Dario Giovannetti <dev@dariogiovannetti.net>
-#
-# This file is part of JSS Helpers.
-#
-# JSS Helpers is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# JSS Helpers is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with JSS Helpers.  If not, see <http://www.gnu.org/licenses/>.
+# This file is part of jss-helpers
+# Copyright (C) 2017-present Dario Giovannetti <dev@dariogiovannetti.net>
+# Licensed under MIT
+# https://github.com/kynikos/jss-helpers/blob/master/LICENSE
 
 react_helpers = require('../react-helpers/index')
 styled_jss = require('styled-jss')
