@@ -3,7 +3,7 @@
 # Licensed under MIT
 # https://github.com/kynikos/jss-helpers/blob/master/LICENSE
 
-react_helpers = require('../react-helpers/index')
+react_helpers = require('@kynikos/react-helpers')
 styled_jss = require('styled-jss')
 styled = styled_jss.default
 

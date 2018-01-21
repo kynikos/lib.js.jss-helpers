@@ -1,0 +1,24 @@
+{
+  "name": "@kynikos/jss-helpers",
+  "version": "1.0.0",
+  "author": "Dario Giovannetti",
+  "description": "JSS helpers.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kynikos/lib.js.jss-helpers.git"
+  },
+  "keywords": [
+    "react jss"
+  ],
+  "scripts": {
+    "compile": "coffee --compile index.coffee"
+  },
+  "dependencies": {
+    "@kynikos/react-helpers": "^1.0.0",
+    "styled-jss": "^2.1.2"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.1.1"
+  }
+}
