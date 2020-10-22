@@ -15,13 +15,13 @@
     "compile": "./node_modules/.bin/coffee --compile --transpile index.coffee"
   },
   "dependencies": {
-    "@kynikos/react-helpers": "^1.0.0",
-    "styled-jss": "^2.1.2"
+    "@kynikos/react-helpers": "^2.0.2",
+    "styled-jss": "^2.2.3"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "coffeescript": "^2.1.1"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "coffeescript": "^2.5.1"
   },
   "babel": {
     "presets": [
