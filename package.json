@@ -15,7 +15,9 @@
     "compile": "./node_modules/.bin/coffee --compile --transpile index.coffee"
   },
   "dependencies": {
-    "@kynikos/react-helpers": "^2.0.2",
+    "@kynikos/react-helpers": "^3.0.0",
+    "jss": "^10.8.2",
+    "jss-preset-default": "^10.8.2",
     "styled-jss": "^2.2.3"
   },
   "devDependencies": {
