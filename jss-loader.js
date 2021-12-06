@@ -1,7 +1,7 @@
-# This file is part of jss-helpers
-# Copyright (C) 2017-present Dario Giovannetti <dev@dariogiovannetti.net>
-# Licensed under MIT
-# https://github.com/kynikos/jss-helpers/blob/master/LICENSE
+// This file is part of jss-helpers
+// Copyright (C) 2017-present Dario Giovannetti <dev@dariogiovannetti.net>
+// Licensed under MIT
+// https://github.com/kynikos/jss-helpers/blob/master/LICENSE
 
 const {default: jss} = require('jss')
 const {default: jssPreset} = require('jss-preset-default')
